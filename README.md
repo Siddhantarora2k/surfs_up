@@ -1,7 +1,7 @@
 # surfs_up
 ### Overview
 The purpose of the analysis was to get
-1. Temperature data for the month of __june__ and __december__.
+1. Temperature data for the month of __June__ and __December__.
 2. Convert them into a list and further into a DataFrame.
 3. Eventually, Get summary statistics of the DataFrame.
 
