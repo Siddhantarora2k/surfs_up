@@ -22,5 +22,5 @@ Data Frame and Summary Statistics.
 ### Summary 
 The data shows temperature of __JUNE__ and __DECEMBER__ from all different stations.
 So, another query I would do is 
-- filter the data by only that station where the temperature is more frequently updated.
+- Filter the data by only that station where the temperature is more frequently updated.
 - I already did the query where temperature data is shown after 30th june and 31st december
